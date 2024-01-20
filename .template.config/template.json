@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Sawyer Watts",
+  "classifications": [ "Config" ],
+  "identity": "sawyereditorconfig",
+  "name": "Sawyer's EditorConfig",
+  "shortName": "sawyereditorconfig",
+  "sourceName": "SawyerCSharpEditorConfig",
+  "preferNameDirectory": true,
+  "tags": {
+    "language": "",
+    "type": "item"
+  }
+}
