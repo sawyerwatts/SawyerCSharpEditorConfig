@@ -23,7 +23,7 @@ Here are the steps in PowerShell:
 $templateDir="$env:USERPROFILE\.dotnetTemplates\SawyerCSharpEditorConfig"
 git clone https://github.com/sawyerwatts/SawyerCSharpEditorConfig.git $templateDir
 rm $templateDir\.git -r -force
-rm $template_dir\.gitignore
+rm $templateDir\.gitignore
 rm $templateDir\README.md
 rm $templateDir\LICENSE
 dotnet new install $templateDir
